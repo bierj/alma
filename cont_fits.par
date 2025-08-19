@@ -1,0 +1,18 @@
+#Parameters to vary
+pointFlux = 5e-5 #Jy
+comaFlux = 0.1 #Jy
+
+#Other variables
+#calcRMS = True
+restFreq = 459e9 #Hz
+visFile1 = 'UN271.Mar17.cont.216GHz.fixplanets.phasecenter.final.timebin.flagged'
+visFile2 = 'UN271.Mar17.cont.232GHz.fixplanets.phasecenter.final.timebin.flagged'
+binWid = 12
+binOffset = 0
+uvmax = 235
+outPars = 'UN271.pointFit-comaFit.txt'
+outModel = 'UN271.pointFit-comaFit.model.txt'
+p0 = [pointFlux,comaFlux]
+#Setting "fix" to "False" means a parameter will be varied
+pfix = [False,False]
+#pfix = [True,True]
