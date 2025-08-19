@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1755624400.66952 "main.aux" "main.bbl" "main" 1755625415.09465 0
+["bibtex main"] 1755628919.01704 "main.aux" "main.bbl" "main" 1755629993.91578 0
   "./aasjournalv7.bst" 1755613680.33914 38788 af6489f4b275f4b9c2f0b12c5ef4a113 ""
   "./main.bib" 1755613733.4957 4509 60624e051aa598b152be3f30b115cc7a ""
-  "main.aux" 1755625423.53683 1676 fa51c75d4f7717677348d1f9eb5cdd79 "pdflatex"
+  "main.aux" 1755630002.11424 1676 b367c1f5b792767e2aaec23a00221d68 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1755625413.74534 "/home/zedd/alma/code/paper/main.tex" "main.pdf" "main" 1755625415.09925 0
+["pdflatex"] 1755629992.05137 "/home/zedd/alma/code/paper/main.tex" "main.pdf" "main" 1755629993.9209 0
   "/etc/texmf/web2c/texmf.cnf" 1742577336.17976 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/zedd/alma/code/paper/main.tex" 1755625077.79574 3304 1ebf1e378806842a67f2be221d6840d2 ""
+  "/home/zedd/alma/code/paper/main.tex" 1755626626.07405 2716 554221974729125e82d7e3e947091df8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr.tfm" 1136768653 2504 ba6584b616b92101c768b6c4ffb32dd0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -60,7 +60,6 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1248133631 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb" 1248133631 35660 fb24af7afbadb71801619f1415838111 ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -128,15 +127,15 @@
   "A3.12m.460-471GHZ.cont.png" 1755613712.61852 1066532 2e87dde698e19a9e126d1c1f53293c04 ""
   "A3.ACA.460-471GHZ.cont.png" 1755613715.82145 1197941 9eabcd2793e2830383f5ff3ee6384450 ""
   "aastex7.cls" 1755613702.65501 387395 eb7e844551eace21010fa01fa70b3165 ""
-  "abstract.tex" 1755625387.40171 1676 a04bb233c136ce84c77bac9b451a6f37 ""
-  "discussion.tex" 1755624677.67236 3002 e84f191b1263e500c9e0a517af2ee06d ""
+  "abstract.tex" 1755626415.13882 1525 3600a6231da08619f4bbb68ae6d089cc ""
+  "discussion.tex" 1755629891.9728 2268 3063b61e548c2ace1fb09efbce83258b ""
   "dust_lmfit_comparison.png" 1755613727.08625 46160 4f55be3269dc7e9fd68e88e5849376a8 ""
-  "intro.tex" 1755625418.25772 2820 e691ec499248f698bae4279e70293020 ""
-  "main.aux" 1755625423.53683 1676 fa51c75d4f7717677348d1f9eb5cdd79 "pdflatex"
-  "main.bbl" 1755624409.13629 1633 e8242b62e648c1dbb3324ef3d290d27d "bibtex main"
-  "main.out" 1755625423.53935 604 175e752f2715e437167b615834f2a8b8 "pdflatex"
-  "obs.tex" 1755625390.73143 6269 0ec00fb164a114dfc33e66fc75d485c8 ""
-  "results.tex" 1755613747.18862 2435 b4ddd7a452bd1d8ec37de8afa5644b86 ""
+  "intro.tex" 1755625438.5106 2819 81dfb406b32959a7e90b6a5a7e68a68c ""
+  "main.aux" 1755630002.11424 1676 b367c1f5b792767e2aaec23a00221d68 "pdflatex"
+  "main.bbl" 1755628927.28119 1633 e8242b62e648c1dbb3324ef3d290d27d "bibtex main"
+  "main.out" 1755630002.11924 604 175e752f2715e437167b615834f2a8b8 "pdflatex"
+  "obs.tex" 1755629999.49662 6822 fcbefdb478d69c968cccaa14031ebc7e ""
+  "results.tex" 1755629715.79218 1814 e74f75c99696ccf20f148dbea0209f71 ""
   (generated)
   "main.aux"
   "main.log"

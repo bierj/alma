@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+NEATM/
+vis_sample/
+analysis_scripts/
+line_modeling/
+paper/main.pdf
+paper/main.synctex.gz
+paper/main.fls
+paper/main.log
+paper/main.out
