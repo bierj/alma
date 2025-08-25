@@ -183,3 +183,6 @@ paper/main.fls
 paper/main.log
 paper/main.out
 paper/main.fdb_latexmk
+paper/main.blg
+paper/main.bbl
+paper/main.aux
