@@ -1021,7 +1021,13 @@ def line_widths_3sigma_upper_limit_A3():
 
 
 def estimate_Q_H2O_A3():
-    pass
+    d = Q(0.74056486704488, 'AU').m
+    r_minus_9 = Q(0.421744277212, 'AU').m
+    m1 =  23.5 + 5 * math.log10(d) + 60 * math.log10(r_minus_9)
+    Q_H2O = math.pow(10, 30.675 - 0.2453 * m1)
+    print(f'Q_H2O = {Q_H2O:e}')
+    # CASA <1>: my.estimate_Q_H2O_A3()
+    # Q_H2O = 3.881117e+30
 
 
 def find_parameter(f, y, lo=0, hi=1, tol=Q(.0005, 'K km/s')):
